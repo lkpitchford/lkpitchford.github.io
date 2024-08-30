@@ -1,6 +1,6 @@
 ---
 title: "Measuring the stellar kinematics of nearby galaxies using NIFS A"
-excerpt: "Measuring the stellar kinematics of nearby galaxies using NIFS AO<br/><img src='/images/ngc5921.png'>"
+excerpt: "Measuring the stellar kinematics of nearby galaxies using NIFS AO<br/><img src='/images/ngc5921.png' width='500'>"
 collection: research
 ---
 
