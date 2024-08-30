@@ -5,6 +5,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
+bundle install
 
 # gem "jekyll"
 
