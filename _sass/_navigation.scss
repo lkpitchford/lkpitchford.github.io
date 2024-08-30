@@ -83,21 +83,21 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
+      color: #fff;
+      border: 1px solid #193038;
       border-radius: 0;
 
       &:hover {
-        color: $link-color-hover;
+        color: #4C6771;
       }
 
       &.current {
         color: #fff;
-        background: $primary-color;
+        background: #2e5968;
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        color: #fff;
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -131,12 +131,12 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
-    border: 1px solid $light-gray;
+    color: #fff;
+    border: 1px solid #193038;
     border-radius: $border-radius;
 
     &:hover {
-      color: $link-color-hover;
+      color: #4C6771;
     }
 
     &:first-child {
