@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Add info
 
 Education
 ======
