@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at Texas A&M characterizing the stellar kinematics of a sample of nearby galaxies, the first step to determine their dynamical black hole masses using orbit- based modeling. I have specifically worked with NIFS AO observations in the *K*-band. The derived kinematics are the parameterizations of the line-of-sight velocity distributions of the stars which, when convolved with stellar template spectra, best fit the observed galaxy spectra (for more detailed info on the penalized pixel-fitting method used, see e.g. [Cappellari 2017](https://ui.adsabs.harvard.edu/abs/2017MNRAS.466..798C/abstract)).
+I am a postdoctoral researcher at Texas A&M characterizing the stellar kinematics of a sample of nearby galaxies, the first step to determine their dynamical black hole masses using orbit- based modeling. I have specifically worked with NIFS AO observations in the *K*-band. The derived kinematics are the parameterizations of the line-of-sight velocity distributions of the stars which, when convolved with stellar template spectra, best fit the observed galaxy spectra.
 
 I did my Ph.D. with Duncan Farrah at Virginia Tech, focusing on star formation events in optically-identified quasars. Most of my work has focused on fitting the optical through far-infrared spectral energy distributions of these quasars to search for evidence of feedback.
 
