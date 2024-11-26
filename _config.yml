@@ -12,8 +12,8 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Kate Pitchford"
 description              : &description "personal description"
-url                      : https://lkpitchford.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+url                      : https://lkpitchford.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lkpitchford/lkpitchford.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
