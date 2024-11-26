@@ -80,7 +80,7 @@ publication_category:
   manuscripts:
     title: 'First Author'    
   other_papers:
-    title: 'Other'
+    title: 'Co-author'
 
 # Site Settings
 teaser                   : "images/ngc5921.png"
