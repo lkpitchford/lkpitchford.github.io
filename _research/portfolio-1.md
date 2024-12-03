@@ -7,5 +7,5 @@ Supermassive black holes (SMBHs) are crucial to galaxy evolution, as evidenced b
 
 I have focused specifically on extracting the stellar kinematics from the NIFS observations, where each datacube provides spectra of the *K*-band (centered at roughly 2.2μm) over the central 3''x 3'' region of the galaxy. 
 
-<img src='/images/pgc1021091_fiducial_basic_ptsymm.png' width='500'>
+<img src='/images/pgc1021091_fiducial_basic_ptsymm.png' style="display: block; margin-left: auto; margin-right: auto;" width='500'>
 
